@@ -1,0 +1,4 @@
+# CSV files (large data files)
+*.csv
+mnist_train.csv
+mnist_test.csv
